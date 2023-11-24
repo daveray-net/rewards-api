@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.daveray.rewardsapi"},{"l":"net.daveray.rewardsapi.data"},{"l":"net.daveray.rewardsapi.func"},{"l":"net.daveray.rewardsapi.rest"},{"l":"net.daveray.rewardsapi.srvc"},{"l":"net.daveray.rewardsapi.util"}];updateSearchResults();
