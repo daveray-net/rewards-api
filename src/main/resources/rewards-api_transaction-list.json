@@ -1,0 +1,161 @@
+[[
+{"id": "f9905c2d-82e6-4a26-8df3-d7eaea37df13", "unixtime": "1695761406135", "lemois": "AUGUST", "monid": "8", "customerId": "124596072", "name": "Lucia Bowen", "amount": "1.00" }
+, 
+{"id": "0240cd77-cad5-4900-bd40-efef9429d16e", "unixtime": "1695198490521", "lemois": "AUGUST", "monid": "8", "customerId": "124596072", "name": "Lucia Bowen", "amount": "77.00" }
+, 
+{"id": "88d71df3-d729-42c4-9b33-dad9a1e80fea", "unixtime": "1692042033456", "lemois": "JULY", "monid": "7", "customerId": "124596072", "name": "Lucia Bowen", "amount": "2.00" }
+, 
+{"id": "9deaf6ea-9c38-4c0d-8471-502c4447569c", "unixtime": "1691284445479", "lemois": "JULY", "monid": "7", "customerId": "124596072", "name": "Lucia Bowen", "amount": "93.00" }
+, 
+{"id": "4cb892ae-8fa0-4687-978a-0653e612f475", "unixtime": "1695111198283", "lemois": "AUGUST", "monid": "8", "customerId": "124596072", "name": "Lucia Bowen", "amount": "68.00" }
+, 
+{"id": "45aa094e-1eab-4176-9dcf-953afdcbad96", "unixtime": "1695168604739", "lemois": "AUGUST", "monid": "8", "customerId": "124596072", "name": "Lucia Bowen", "amount": "68.00" }
+], [
+{"id": "1db208d3-70d6-440a-a6b0-e1a32b0eed00", "unixtime": "1694950268110", "lemois": "AUGUST", "monid": "8", "customerId": "954238437", "name": "Dean Pacheco", "amount": "373.00" }
+, 
+{"id": "44f9a251-f958-45e5-a157-a4f3cc2fc80f", "unixtime": "1698208065195", "lemois": "SEPTEMBER", "monid": "9", "customerId": "954238437", "name": "Dean Pacheco", "amount": "86.00" }
+, 
+{"id": "2d23da95-35d5-49c2-8d77-0b3d11884e91", "unixtime": "1697528583291", "lemois": "SEPTEMBER", "monid": "9", "customerId": "954238437", "name": "Dean Pacheco", "amount": "7.00" }
+, 
+{"id": "7e3f5018-4918-4748-8fd5-257fdf1382eb", "unixtime": "1696508641042", "lemois": "SEPTEMBER", "monid": "9", "customerId": "954238437", "name": "Dean Pacheco", "amount": "25.00" }
+, 
+{"id": "50465b4a-3dec-4e8e-8afc-e1c4b3e2d7e8", "unixtime": "1691317900447", "lemois": "JULY", "monid": "7", "customerId": "954238437", "name": "Dean Pacheco", "amount": "10.00" }
+, 
+{"id": "9ac1da44-43ee-45e5-9033-2ddb89a6b0ff", "unixtime": "1695893101214", "lemois": "AUGUST", "monid": "8", "customerId": "954238437", "name": "Dean Pacheco", "amount": "2.00" }
+, 
+{"id": "7941eeb0-7c99-495c-a44c-1b2598126808", "unixtime": "1695605428665", "lemois": "AUGUST", "monid": "8", "customerId": "954238437", "name": "Dean Pacheco", "amount": "899.00" }
+, 
+{"id": "e49336c7-3daf-4fbc-85b5-26c614a775bc", "unixtime": "1695603282346", "lemois": "AUGUST", "monid": "8", "customerId": "954238437", "name": "Dean Pacheco", "amount": "765.00" }
+, 
+{"id": "a8492c63-cb32-4b04-afaa-a32065a12ab6", "unixtime": "1693451939643", "lemois": "JULY", "monid": "7", "customerId": "954238437", "name": "Dean Pacheco", "amount": "59.00" }
+, 
+{"id": "b700bf6f-7736-4921-b8d1-9b73201a2786", "unixtime": "1696023570787", "lemois": "AUGUST", "monid": "8", "customerId": "954238437", "name": "Dean Pacheco", "amount": "98.00" }
+, 
+{"id": "2ef8ada7-02c2-4773-9164-bec37e56d407", "unixtime": "1697207188598", "lemois": "SEPTEMBER", "monid": "9", "customerId": "954238437", "name": "Dean Pacheco", "amount": "57.00" }
+, 
+{"id": "e880e214-d6cd-435d-8f00-b2b05bb8e080", "unixtime": "1692371841144", "lemois": "JULY", "monid": "7", "customerId": "954238437", "name": "Dean Pacheco", "amount": "57.00" }
+], [
+{"id": "35078c04-b985-460c-b0c7-5c2ee238feab", "unixtime": "1694599495910", "lemois": "AUGUST", "monid": "8", "customerId": "852848378", "name": "Regina Hensley", "amount": "15.00" }
+, 
+{"id": "5bb2399e-5a2b-41d1-8b10-604cd77ad53a", "unixtime": "1694144636273", "lemois": "AUGUST", "monid": "8", "customerId": "852848378", "name": "Regina Hensley", "amount": "693.00" }
+, 
+{"id": "bc85445e-63ba-4562-8a90-9b0acd3e94fa", "unixtime": "1695541497273", "lemois": "AUGUST", "monid": "8", "customerId": "852848378", "name": "Regina Hensley", "amount": "534.00" }
+, 
+{"id": "dfd9d3ae-62fe-443d-8b12-9fa9e36b0b22", "unixtime": "1696612365775", "lemois": "SEPTEMBER", "monid": "9", "customerId": "852848378", "name": "Regina Hensley", "amount": "47.00" }
+, 
+{"id": "7e48ffcf-883b-4a76-8854-40312c0ab436", "unixtime": "1694660447340", "lemois": "AUGUST", "monid": "8", "customerId": "852848378", "name": "Regina Hensley", "amount": "6.00" }
+, 
+{"id": "33e1d5e8-b0ee-4a7a-b187-3e0e4fc847ee", "unixtime": "1692672095307", "lemois": "JULY", "monid": "7", "customerId": "852848378", "name": "Regina Hensley", "amount": "22.00" }
+, 
+{"id": "f47ed48f-2ade-409c-9bee-90c0b371d267", "unixtime": "1697191810316", "lemois": "SEPTEMBER", "monid": "9", "customerId": "852848378", "name": "Regina Hensley", "amount": "87.00" }
+, 
+{"id": "bd890b0c-2b8a-42f2-85a2-a5017c7b9303", "unixtime": "1692721646797", "lemois": "JULY", "monid": "7", "customerId": "852848378", "name": "Regina Hensley", "amount": "96.00" }
+, 
+{"id": "7bafe3fc-540e-44d7-b1eb-6b5aa0331c76", "unixtime": "1695523484352", "lemois": "AUGUST", "monid": "8", "customerId": "852848378", "name": "Regina Hensley", "amount": "381.00" }
+, 
+{"id": "eb8bf108-72ce-4973-9716-ed60a84df6bc", "unixtime": "1697658035473", "lemois": "SEPTEMBER", "monid": "9", "customerId": "852848378", "name": "Regina Hensley", "amount": "738.00" }
+], [
+{"id": "1bf59dd8-42b1-4eb0-b9d6-f054ea45da51", "unixtime": "1694543545333", "lemois": "AUGUST", "monid": "8", "customerId": "2127260392", "name": "Scarlet Barnett", "amount": "2.00" }
+, 
+{"id": "c3ef2a16-f646-418b-9e0a-3f1698282e2f", "unixtime": "1692122960528", "lemois": "JULY", "monid": "7", "customerId": "2127260392", "name": "Scarlet Barnett", "amount": "8.00" }
+, 
+{"id": "851ec9b6-1562-4dca-b3e7-f7179f2a87f1", "unixtime": "1697737968265", "lemois": "SEPTEMBER", "monid": "9", "customerId": "2127260392", "name": "Scarlet Barnett", "amount": "13.00" }
+], [
+{"id": "3ad0a2de-09da-4471-b6f1-6ea4f6e38264", "unixtime": "1698656336549", "lemois": "SEPTEMBER", "monid": "9", "customerId": "147025352", "name": "Zayne Mann", "amount": "6.00" }
+, 
+{"id": "0f8293d8-555b-4492-9de1-1b8602a0a828", "unixtime": "1693197260393", "lemois": "JULY", "monid": "7", "customerId": "147025352", "name": "Zayne Mann", "amount": "35.00" }
+, 
+{"id": "a6c43d3a-e7f5-4059-80f6-320152ee2335", "unixtime": "1693397968175", "lemois": "JULY", "monid": "7", "customerId": "147025352", "name": "Zayne Mann", "amount": "548.00" }
+, 
+{"id": "ac90a9c6-ab37-4bde-a76b-cf56a095a742", "unixtime": "1696306125653", "lemois": "SEPTEMBER", "monid": "9", "customerId": "147025352", "name": "Zayne Mann", "amount": "147.00" }
+], [
+{"id": "78b1e15a-0f83-49c8-b396-11df6286de06", "unixtime": "1692564690912", "lemois": "JULY", "monid": "7", "customerId": "443821775", "name": "Austin Morales", "amount": "2.00" }
+, 
+{"id": "ca56d3a6-c1e0-45f1-8801-2dc83de44571", "unixtime": "1695465360913", "lemois": "AUGUST", "monid": "8", "customerId": "443821775", "name": "Austin Morales", "amount": "9.00" }
+, 
+{"id": "c5caedb2-548a-46f9-9899-3329e404d59b", "unixtime": "1693898418588", "lemois": "AUGUST", "monid": "8", "customerId": "443821775", "name": "Austin Morales", "amount": "5.00" }
+, 
+{"id": "8af311c6-729a-496e-9d50-188830569d1b", "unixtime": "1695931468737", "lemois": "AUGUST", "monid": "8", "customerId": "443821775", "name": "Austin Morales", "amount": "27.00" }
+], [
+{"id": "037703af-e44c-4dc3-8182-21184d504b13", "unixtime": "1694143647394", "lemois": "AUGUST", "monid": "8", "customerId": "1975730415", "name": "Hope Griffith", "amount": "82.00" }
+, 
+{"id": "c9e2c5c2-c959-4b24-9134-06dac074f78e", "unixtime": "1696728760863", "lemois": "SEPTEMBER", "monid": "9", "customerId": "1975730415", "name": "Hope Griffith", "amount": "30.00" }
+, 
+{"id": "de7b9f0c-83ca-4b9f-a15d-506615634490", "unixtime": "1693258203741", "lemois": "JULY", "monid": "7", "customerId": "1975730415", "name": "Hope Griffith", "amount": "858.00" }
+, 
+{"id": "76c4f50b-05d9-428d-a92c-84543310a6d3", "unixtime": "1692207886286", "lemois": "JULY", "monid": "7", "customerId": "1975730415", "name": "Hope Griffith", "amount": "34.00" }
+, 
+{"id": "baae0f61-8160-44c8-a018-dbfe8f9a8361", "unixtime": "1694386463961", "lemois": "AUGUST", "monid": "8", "customerId": "1975730415", "name": "Hope Griffith", "amount": "79.00" }
+, 
+{"id": "5633ed00-c1d2-4d93-921b-c79dd7ecd683", "unixtime": "1696296241831", "lemois": "SEPTEMBER", "monid": "9", "customerId": "1975730415", "name": "Hope Griffith", "amount": "9.00" }
+, 
+{"id": "c481402b-9a4c-4886-8de5-4a4d1042fb17", "unixtime": "1693855042163", "lemois": "AUGUST", "monid": "8", "customerId": "1975730415", "name": "Hope Griffith", "amount": "66.00" }
+, 
+{"id": "81ef6fc6-d9b7-40b9-81e2-c642ab426a70", "unixtime": "1694919967756", "lemois": "AUGUST", "monid": "8", "customerId": "1975730415", "name": "Hope Griffith", "amount": "7.00" }
+, 
+{"id": "079b496b-4344-4f10-930c-22e17214b146", "unixtime": "1698143027415", "lemois": "SEPTEMBER", "monid": "9", "customerId": "1975730415", "name": "Hope Griffith", "amount": "333.00" }
+, 
+{"id": "07fb91eb-a141-4b5e-b13b-1840952dd4cb", "unixtime": "1692847956786", "lemois": "JULY", "monid": "7", "customerId": "1975730415", "name": "Hope Griffith", "amount": "587.00" }
+, 
+{"id": "07a3eb0d-f117-4428-9260-02226ef2a1d1", "unixtime": "1692825904215", "lemois": "JULY", "monid": "7", "customerId": "1975730415", "name": "Hope Griffith", "amount": "15.00" }
+, 
+{"id": "14f17055-a106-42ff-8c0e-e42a76b9aa84", "unixtime": "1697102195103", "lemois": "SEPTEMBER", "monid": "9", "customerId": "1975730415", "name": "Hope Griffith", "amount": "54.00" }
+, 
+{"id": "e4101f37-f463-4247-bdda-2220eb3f2ca3", "unixtime": "1694046360445", "lemois": "AUGUST", "monid": "8", "customerId": "1975730415", "name": "Hope Griffith", "amount": "2.00" }
+], [
+{"id": "9a9d56cf-93ea-40f7-9bac-8f59def0e65a", "unixtime": "1692951968948", "lemois": "JULY", "monid": "7", "customerId": "938247567", "name": "Alayna Collins", "amount": "17.00" }
+, 
+{"id": "e8b215d6-5864-4758-97ff-14d88677cc5a", "unixtime": "1691738545524", "lemois": "JULY", "monid": "7", "customerId": "938247567", "name": "Alayna Collins", "amount": "52.00" }
+, 
+{"id": "86aaa67a-1e4a-4a5a-ad6d-ac0556225fff", "unixtime": "1698754659285", "lemois": "SEPTEMBER", "monid": "9", "customerId": "938247567", "name": "Alayna Collins", "amount": "95.00" }
+], [
+{"id": "96f8c69a-e470-4c9a-8bc4-b61fb60f00ea", "unixtime": "1695874347263", "lemois": "AUGUST", "monid": "8", "customerId": "1218741205", "name": "Demarcus Oconnell", "amount": "132.00" }
+, 
+{"id": "35dc890b-ce95-4518-97bb-dd82e133c0fb", "unixtime": "1695360514773", "lemois": "AUGUST", "monid": "8", "customerId": "1218741205", "name": "Demarcus Oconnell", "amount": "66.00" }
+], [
+{"id": "ecfae087-4459-4040-8905-616f38c80e1e", "unixtime": "1696913316289", "lemois": "SEPTEMBER", "monid": "9", "customerId": "871832891", "name": "Kenya Mendoza", "amount": "74.00" }
+, 
+{"id": "89d9fd36-b607-4c15-9a3e-eaa5856f8c07", "unixtime": "1693248345512", "lemois": "JULY", "monid": "7", "customerId": "871832891", "name": "Kenya Mendoza", "amount": "74.00" }
+, 
+{"id": "717f6439-4bd8-4d0c-8c34-885c6bb976f0", "unixtime": "1698532213008", "lemois": "SEPTEMBER", "monid": "9", "customerId": "871832891", "name": "Kenya Mendoza", "amount": "4.00" }
+, 
+{"id": "5e7e5edd-cabf-4ea7-b5d3-32ad8a7ad48c", "unixtime": "1691411377361", "lemois": "JULY", "monid": "7", "customerId": "871832891", "name": "Kenya Mendoza", "amount": "90.00" }
+, 
+{"id": "0c673e1e-6975-423b-8889-508da46269af", "unixtime": "1695661085156", "lemois": "AUGUST", "monid": "8", "customerId": "871832891", "name": "Kenya Mendoza", "amount": "370.00" }
+], [
+{"id": "ba913dd7-8cea-4daf-bf9c-7833a14bf9d6", "unixtime": "1697539282387", "lemois": "SEPTEMBER", "monid": "9", "customerId": "56938671", "name": "Rayan Lin", "amount": "420.00" }
+, 
+{"id": "38682b14-8c7b-4c31-9b9b-41af34c7bb9a", "unixtime": "1692217376611", "lemois": "JULY", "monid": "7", "customerId": "56938671", "name": "Rayan Lin", "amount": "14.00" }
+, 
+{"id": "2f208da7-54e4-4f0f-9aba-89a7d0cd1ad4", "unixtime": "1692308602507", "lemois": "JULY", "monid": "7", "customerId": "56938671", "name": "Rayan Lin", "amount": "95.00" }
+, 
+{"id": "1b8d6019-f90e-4bf8-b0b6-f5922fca82b8", "unixtime": "1697144088697", "lemois": "SEPTEMBER", "monid": "9", "customerId": "56938671", "name": "Rayan Lin", "amount": "57.00" }
+, 
+{"id": "ee49a1c9-6e39-45ee-9d6b-1802b9bf3885", "unixtime": "1695048532757", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "18.00" }
+, 
+{"id": "a8ada393-4412-4cfd-b534-191cc24a4751", "unixtime": "1695552614212", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "28.00" }
+, 
+{"id": "cc20b1f5-f834-45a6-b347-7a6ebc082cd0", "unixtime": "1695135898356", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "530.00" }
+, 
+{"id": "3bb5cc3c-18e4-4b08-af01-be2d94c29afd", "unixtime": "1693300072079", "lemois": "JULY", "monid": "7", "customerId": "56938671", "name": "Rayan Lin", "amount": "186.00" }
+, 
+{"id": "624d20ba-eacc-4fbe-9429-300101cfda9b", "unixtime": "1694333173560", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "26.00" }
+, 
+{"id": "daebd870-1665-4dfe-9ca5-528f9cc3e94e", "unixtime": "1695188737534", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "24.00" }
+, 
+{"id": "89a4808c-47d8-41a7-b072-2f0e5717bcd2", "unixtime": "1695445612809", "lemois": "AUGUST", "monid": "8", "customerId": "56938671", "name": "Rayan Lin", "amount": "70.00" }
+, 
+{"id": "28de8439-c7f5-42b0-85e7-c41e4d46d468", "unixtime": "1693037408238", "lemois": "JULY", "monid": "7", "customerId": "56938671", "name": "Rayan Lin", "amount": "85.00" }
+, 
+{"id": "6c1ec02e-006b-4f6f-bf16-a91975c10b44", "unixtime": "1690922306909", "lemois": "JULY", "monid": "7", "customerId": "56938671", "name": "Rayan Lin", "amount": "79.00" }
+], [
+{"id": "96671e87-1632-41b6-bfea-16d7d288f3c2", "unixtime": "1691054460414", "lemois": "JULY", "monid": "7", "customerId": "1170920713", "name": "Alyvia Simmons", "amount": "957.00" }
+, 
+{"id": "dba57a00-633c-4010-a411-df908fd2ec13", "unixtime": "1692401858751", "lemois": "JULY", "monid": "7", "customerId": "1170920713", "name": "Alyvia Simmons", "amount": "864.00" }
+, 
+{"id": "81bfd42a-503d-4425-a426-956b07c31376", "unixtime": "1697256637391", "lemois": "SEPTEMBER", "monid": "9", "customerId": "1170920713", "name": "Alyvia Simmons", "amount": "89.00" }
+, 
+{"id": "119c53a1-88bb-4861-adee-6ba258316f7e", "unixtime": "1691006646076", "lemois": "JULY", "monid": "7", "customerId": "1170920713", "name": "Alyvia Simmons", "amount": "1.00" }
+, 
+{"id": "cac3f219-0815-404c-bbcb-5a9a16221391", "unixtime": "1695658199375", "lemois": "AUGUST", "monid": "8", "customerId": "1170920713", "name": "Alyvia Simmons", "amount": "90.00" }
+]]
